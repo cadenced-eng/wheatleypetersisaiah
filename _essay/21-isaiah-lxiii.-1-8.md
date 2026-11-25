@@ -58,5 +58,38 @@ His purple vesture waves upon the wind.
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in Markdown!
 
 ## Works Cited
-This is the works cited. Your works cited should include all references across your critical introduction, annotated text, and contextual appendix.
+Britannica Editors. "Edom". _Encyclopedia Britannica,_ 25 Jun. 2026, 
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.britannica.com/place/Edom. 
+
+—. "Zion". _Encyclopedia Britannica,_ 19 Mar. 2026, 
+&nbsp;&nbsp;&nbsp;&nbsp;https://www.britannica.com/place/Zion-hill-Jerusalem. 
+
+Carretta, Vincent. ““Now upon my own Footing.” _Phillis Wheatley: Biography of a 
+&nbsp;&nbsp;&nbsp;&nbsp;Genius in Bondage._ Ebook ed., University of Georgia Press, 2011, 
+&nbsp;&nbsp;&nbsp;&nbsp;pp. 155-188. _ProQuest Ebook Central,_ http://ebookcentral.proquest.com/
+&nbsp;&nbsp;&nbsp;&nbsp;lib/kwantlen-ebooks/detail.action?docID=1630844.
+
+Erkkila, Betsy. “Phillis Wheatley on the Streets of Revolutionary Boston and in the Atlantic 
+&nbsp;&nbsp;&nbsp;&nbsp;World.” _Early American Literature,_ vol. 56, no. 2, University of 
+&nbsp;&nbsp;&nbsp;&nbsp;North Carolina Press, 2021, pp. 351-372, https://www.jstor.org/stable/10.2307/27081922.
+
+Jeffers, Honorée Fanonne. “Looking for Miss Phillis.” _The Age of Phillis,_ Ebook ed., Wesleyan University Press, 2020, pp. 87-110. _ProQuest Ebook Central,_ http://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=6202670.
+
+
+“Phillis Wheatley's Poems on Various Subjects: Timeline of the American Revolution.” 
+&nbsp;&nbsp;&nbsp;&nbsp;_Youtube_, uploaded by Museum of the American Revolution, 17 May 2023, https://www.youtube.com/watch?app=desktop&v=B_s8riuiLvE. 
+
+_Somerset v. Steuart._ Slavery Law & Power in Early America and the British Empire, 25 November 2026, https://slaverylawpower.org/chapters/revolutionary-atlantics/somerset-v-steuart/.
+
+_The Bible._ King James Version, _Bible Gateway,_ https://www.biblegateway.com/passage/.
+
+Thorn, Jennifer. “Phillis Wheatley and New England slavery.” _The Routledge Companion to Black Women’s Cultural Histories,_ edited by Janell Hobson, ed. 1, Routledge, 2021, pp. 120-128. 
+
+“Virginia Gazette - May 7, 1772.” _Virginia Gazette excerpts._ Slavery Law & Power in Early America and the British Empire, 25 November 2026, https://slaverylawpower.org/virginia-gazette-excerpts/.
+
+William J. Scheick. “Phillis Wheatley's Appropriation of Isaiah.” _Early American Literature,_ vol. 27, no. 2, University of North Carolina Press, 1992, pp. 135-140, https://www.jstor.org/stable/25056895.
+
+Woodrich, Chris. _Old South Meeting House, Boston, MA._21 February 2023, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Old_South_Meeting_House,_Boston,_MA,_2023-02-21_01.jpg .
+CC BY-SA 4.0. (link: https://creativecommons.org/licenses/by-sa/4.0/deed.en )
+
 ---
