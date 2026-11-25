@@ -46,7 +46,7 @@ This is the critical introduction. Your critical introduction should be construc
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
 
-## Contextual Accompaniment to "To Maecenas"
+## Contextual Accompaniment to "Isaiah lxiii. 1-8"
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in Markdown!
 
 ## Works Cited
