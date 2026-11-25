@@ -11,9 +11,9 @@ This is the critical introduction. Your critical introduction should be construc
 
 <pre>
 <br>SAY, heav’nly muse, what king or mighty God, 
-  That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="annotation." %}
-  In Bosrah’s dies, with martial glories join’d,
-  His purple vesture waves upon the wind.
+<br>  That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="annotation." %}
+<br>  In Bosrah’s dies, with martial glories join’d,
+<br>  His purple vesture waves upon the wind.
   Why thus enrob’d delights he to appear
   In the dread image of the Pow’r of war?
     Compres’d in wrath the swelling wine-press{% include essay/feature/aside.html
