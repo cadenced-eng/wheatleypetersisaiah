@@ -19,14 +19,13 @@ Word Count: 784
 <pre>
 
 ## ISAIAH LXIII. 1-8.
-<br>SAY, heav’nly muse, what king or mighty God, 
-<br>That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="annotation." %}
-<br>In Bosrah’s dies, with martial glories join’d,
-<br>His purple vesture waves upon the wind.
+SAY, heav’nly muse{% include essay/feature/aside.html text="Invoking the muse. A common opening to Wheatley Peters’s poems. Typically a neoclassical reference. However, in the context of the biblical passage the poem paraphrases (King James Version, Isa. 63.1-8), this invocation is more prophetic in tone." %}, what king or mighty God, 
+That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="‘Iduma’ is another name for the ancient and biblical kingdom of Edom, often depicted in the Old Testament as being in conflict with the kingdom of Israel. Edom is said to have been founded by Esau, the less-favoured twin brother of Jacob, progenitor of the twelve tribes of Isreal (“Edom,” Britianica)." %}
+In Bosrah’s {% include essay/feature/aside.html text="A city in Edom (King James Vesion, Gen. 36.32–33)." %} dies, with martial glories join’d,
+His purple vesture waves upon the wind.
   Why thus enrob’d delights he to appear
   In the dread image of the Pow’r of war?
-    Compres’d in wrath the swelling wine-press{% include essay/feature/aside.html
-   text="annotation." %} groan’d,
+    Compres’d in wrath the swelling wine-press{% include essay/feature/aside.html text="Ancient wine production required labourers to crush wine grapes underfoot to release the juice. Wine, of course, has a biblical association with communion, and the crucifixion and atonement of Jesus Christ." %} groan’d,
   It bled, and pour’d the gushing purple round.
     “Mine was the act,” th’ Almighty Saviour said,
   And shook the dazzling glories of his head,
@@ -37,7 +36,7 @@ Word Count: 784
   “To execute th’ Eternal’s dread command
   “My soul I sacrific’d with willing hand;
   “Sinless I stood before the avenging frown,
-  “Atoning thus for vices not my own.”
+  “Atoning{% include essay/feature/aside.html text="Reference to the atonement of Jesus Christ, in which the son of God is beleived to have taken upon the sins of the world so that followers may be redeemed and enter Heaven.." %} thus for vices{% include essay/feature/aside.html text="“Vices” here might refer to the tie between the production of  luxury goods and the Trans Atlantic slave trade." %} not my own.”
      His eye the ample field of battle round
   Survey’d, but no created succours found;
   His own omnipotence sustain’d the right,
@@ -46,7 +45,7 @@ Word Count: 784
   And round him lay the dying, and the dead.
     Great God, what light’ning flashes from thine eyes?
   What pow’r withstands if thou indignant rise?
-    Against thy Zion though her foes may rage,
+    Against thy Zion{% include essay/feature/aside.html text="A hill mentioned in the _Old Testament,_ that is used figuratively in _The Bible_ and biblically influenced works. The city is often often personified as a young woman (“Zion,” Britanica). This is an addition of Wheatley Peters’s, as the paraphrased verses make no mention of the city." %} though her foes may rage,
   And all their cunning, all their strength engage,
   Yet she serenely on thy bosom lies,
   Smiles at their arts, and all their force defies.
