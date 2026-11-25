@@ -80,7 +80,7 @@ Thorn, Jennifer. “Phillis Wheatley and New England slavery.” _The Routledge 
 
 William J. Scheick. “Phillis Wheatley's Appropriation of Isaiah.” _Early American Literature,_ vol. 27, no. 2, University of North Carolina Press, 1992, pp. 135-140, https://www.jstor.org/stable/25056895.
 
-Woodrich, Chris. _Old South Meeting House, Boston, MA._21 February 2023, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Old_South_Meeting_House,_Boston,_MA,_2023-02-21_01.jpg .
+Woodrich, Chris. _Old South Meeting House, Boston, MA._ 21 February 2023, Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Old_South_Meeting_House,_Boston,_MA,_2023-02-21_01.jpg .
 CC BY-SA 4.0. (link: https://creativecommons.org/licenses/by-sa/4.0/deed.en )
 
 ---
