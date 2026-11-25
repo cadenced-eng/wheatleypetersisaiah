@@ -6,16 +6,18 @@ byline: Cadence Davies
 ## Critical Introduction to "Isaiah lxiii. 1-8"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in Markdown!
 
+{:.text-center}
 ## ISAIAH LXIII. 1-8.
 
 <pre>
-<br>SAY, heav’nly muse, what king or mighty God,
-  That moves sublime from Idumea’s road?
+<br>SAY, heav’nly muse, what king or mighty God, 
+  That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="annotation." %}
   In Bosrah’s dies, with martial glories join’d,
   His purple vesture waves upon the wind.
   Why thus enrob’d delights he to appear
   In the dread image of the Pow’r of war?
-    Compres’d in wrath the swelling wine-press groan’d,
+    Compres’d in wrath the swelling wine-press{% include essay/feature/aside.html
+   text="annotation." %} groan’d,
   It bled, and pour’d the gushing purple round.
     “Mine was the act,” th’ Almighty Saviour said,
   And shook the dazzling glories of his head,
@@ -43,6 +45,12 @@ This is the critical introduction. Your critical introduction should be construc
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
+
+## Contextual Accompaniment to "To Maecenas"
+This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in Markdown!
+
+## Works Cited
+This is the works cited. Your works cited should include all references across your critical introduction, annotated text, and contextual appendix.
 ---
 
 
@@ -114,10 +122,6 @@ MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html tex
 {% include essay/feature/image-gallery.html
    objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
 
-## Contextual Accompaniment to "To Maecenas"
-This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in Markdown!
 
-## Works Cited
-This is the works cited. Your works cited should include all references across your critical introduction, annotated text, and contextual appendix.
 
 ---
