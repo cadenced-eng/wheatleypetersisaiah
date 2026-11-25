@@ -8,8 +8,6 @@ This is the critical introduction. Your critical introduction should be construc
 
 {:.text-center}
 ## ISAIAH LXIII. 1-8.
-
-<pre>
 <br>SAY, heav’nly muse, what king or mighty God, 
 <br>  That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="annotation." %}
 <br>  In Bosrah’s dies, with martial glories join’d,
