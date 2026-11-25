@@ -67,6 +67,8 @@ His purple vesture waves upon the wind.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The depiction of the “dread image of the Pow'r of war” in “Isaiah lxiii. 1-8” (Wheatley Peters line 6), a poem written to mimic a biblical prophecy of a battle preceding a utopia, would align with this belief that the success of the colonies in the Revolutionary War would bring with it emancipation. However, to say that Wheatley Peters took this outcome for granted would be inaccurate. Her political engagement and abolitionist advocacy only became more explicit and forthright after her emancipation, including a letter to Reverend Samson Occum, a “popular Mohegan minister” and advocate for both Indigenous and Black Americans, that “was published in the Connecticut Gazette and then widely circulated in New England newspapers,” in which she asserted the innate desire for freedom in all human beings (Erkkila 364-365). It is clear to see that Wheatley Peters was hopeful that the freedom she imagined in the last lines of "Isaiah lxiii. 1-8" would come to pass, and that her poetry was an integral part of her efforts to realize it, crafting in her art the image of a better world that gave her the momentum to advocate for it existence.
 
+Word count: 768
+
 
 ## Works Cited
 Britannica Editors. "Edom". _Encyclopedia Britannica,_ 25 Jun. 2026, https://www.britannica.com/place/Edom. 
