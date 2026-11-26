@@ -21,7 +21,7 @@ Word Count: 778
 ## ISAIAH LXIII. 1-8.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SAY, heav’nly muse{% include essay/feature/aside.html text="Invoking the muse. A common opening to Wheatley Peters’s poems. Typically a neoclassical reference. However, in the context of the biblical passage the poem paraphrases (King James Version, Isa. 63.1-8), this invocation is more prophetic in tone." %}, what king or mighty God, 
 <br>That moves sublime from Idumea’s road? {% include essay/feature/aside.html text="‘Idumea’ is another name for the ancient and biblical kingdom of Edom, often depicted in the Old Testament as being in conflict with the kingdom of Israel. Edom is said to have been founded by Esau, the less-favoured twin brother of Jacob, progenitor of the twelve tribes of Isreal (“Edom,” Britannica)." %}
-<br>In Bosrah’s {% include essay/feature/aside.html text="A city in Edom (King James Vesion, Gen. 36.32–33)." %} dies, with martial glories join’d,
+<br>In Bosrah’s {% include essay/feature/aside.html text="A city in Edom (King James Vesion, Gen. 36.32–33)." %} dies,{% include essay/feature/aside.html text="Referring to "dyes," pigment." %} with martial glories join’d,
 <br>His purple vesture waves upon the wind.
 <br>Why thus enrob’d delights he to appear
 <br>In the dread image of the Pow’r of war?
