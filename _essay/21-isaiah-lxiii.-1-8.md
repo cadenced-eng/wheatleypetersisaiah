@@ -87,9 +87,9 @@ Carretta, Vincent. ““Now upon my own Footing.” _Phillis Wheatley: Biograph
 
 Erkkila, Betsy. “Phillis Wheatley on the Streets of Revolutionary Boston and in the Atlantic World.” _Early American Literature,_ vol. 56, no. 2, University of North Carolina Press, 2021, pp. 351-372, https://www.jstor.org/stable/10.2307/27081922.
 
-Jeffers, Honorée Fanonne. “Looking for Miss Phillis.” _The Age of Phillis,_ Ebook ed., Wesleyan University Press, 2020, pp. 87-110. _ProQuest Ebook Central,_ http://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=6202670.
+"In the News: 1774 Newspaper Printing of Phillis Wheatley's Letter Rebuking Slavery." _The Museum of American Revolution,_ 29 March 2022, https://www.amrevmuseum.org/news/in-the-news-1774-newspaper-printing-of-phillis-wheatley-s-letter-rebuking-slavery.
 
-“Phillis Wheatley's Poems on Various Subjects: Timeline of the American Revolution.” _Youtube_, uploaded by Museum of the American Revolution, 17 May 2023, https://www.youtube.com/watch?app=desktop&v=B_s8riuiLvE. 
+Jeffers, Honorée Fanonne. “Looking for Miss Phillis.” _The Age of Phillis,_ Ebook ed., Wesleyan University Press, 2020, pp. 87-110. _ProQuest Ebook Central,_ http://ebookcentral.proquest.com/lib/kwantlen-ebooks/detail.action?docID=6202670.
 
 Scheick, William J. “Phillis Wheatley's Appropriation of Isaiah.” _Early American Literature,_ vol. 27, no. 2, University of North Carolina Press, 1992, pp. 135-140, https://www.jstor.org/stable/25056895.
 
